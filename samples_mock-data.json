@@ -1,0 +1,5 @@
+}
+  "sample_file": "sample-video.mp4",
+  "bucket": "video-upload-bucket",
+  "processed_bucket": "video-processed-bucket"
+}
